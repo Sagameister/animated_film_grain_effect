@@ -1,0 +1,16 @@
+<script src="https://replace_me"></script>
+
+<script>
+
+var options = {
+  "animate": true,
+  "patternWidth": 700,
+  "patternHeight": 700,
+  "grainOpacity": 0.1,
+  "grainDensity": 1,
+  "grainWidth": 1,
+  "grainHeight": 1
+}
+grained("#id_name", options);
+ 
+</script>
